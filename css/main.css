@@ -1,0 +1,24 @@
+/* 
+Author: Noah Osterhout
+Project: NoahOsterhout.com V2
+Created On: July 9th 2022
+Last Edited On: July 9th 2022
+File: Main.CSS
+*/
+
+* {
+    font-family: "Open Sans", sans-serif;
+    color: #fefefe;
+    background: #101317;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+@font-face {
+    font-family: 'abberancy';
+    src: url(/css/abberancy.otf);
+    font-weight: normal;
+    font-style: normal;
+}
