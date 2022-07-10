@@ -38,6 +38,8 @@
             <?php require("navbar.php"); ?>
             <!-- Jumbotron Import -->
             <?php require("jumbotron.php"); ?>
+            <!-- Experience -->
+            <?php require("experience.php");?>
         </div>
         <div class="col-md-1"></div>
     </div>
