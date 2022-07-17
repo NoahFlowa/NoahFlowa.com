@@ -4,7 +4,7 @@
         <div class="col-sm-3">
             <div class="card">
                 <div class="card-body">
-                    <p class="text-center pb-4"><img src="/img/NO_Logo.svg" width="150" height="150"></p>
+                    <p class="text-center pb-4"><img src="/img/NO_Logo_Text.svg" width="150" height="150"></p>
                     <h5 class="card-title fw-bold">Noah Osterhout Website</h5>
                     <p class="card-text fs-5">This websites source code is available on my GitHub!</p>
                     <a href="https://github.com/NoahFlowa/NoahOsterhout.com" class="btn btn-outline-primary">View GitHub Repo</a>
