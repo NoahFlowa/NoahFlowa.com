@@ -1,6 +1,6 @@
 <div class="container-fluid pt-5">
     <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
-        <p class="col-md-4 mb-0 fs-5"><span class="fw-bold">&copy;</span> <span style="font-family: abberancy, 'Open Sans';">Noah <span style="color: #22c2fc; font-family: abberancy;">O</span>sterhout </span><span class="fw-bold"> - <?php echo date("Y") ?></span></p>
+        <a href="https://noahosterhout.com" class="col-md-4 mb-0 fs-5"><span class="fw-bold">&copy;</span> <span style="font-family: abberancy, 'Open Sans';">Noah <span style="color: #22c2fc; font-family: abberancy;">O</span>sterhout </span><span class="fw-bold"> - <?php echo date("Y") ?></span></a>
 
         <ul class="nav col-md-6 justify-content-end">
             <li class="nav-item">
