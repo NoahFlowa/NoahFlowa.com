@@ -46,9 +46,9 @@
                     <p class="text-center pb-4"><i class="fa-solid fa-boxes-stacked fa-6x"></i></p>
                     <h5 class="card-title fw-bold">ISYS 431 Senior Capstone ERP</h5>
                     <p class="card-text fs-5">
-                        I cannot show this repo as I signed an NDA, however, for my final capstone class we won the competition
-                        as we built an ERP program for a client that allowed them to manage their products from design to shipping
-                        out to customers. This project was built using Angular, NodeJS, TypeScript, MSSQL and .NET.
+                        As part of a team of students programmers, we designed, developed and deployed an inventory ERP system for a real world client.
+                        We utilized technologies such as TypeScript, Angular, .NET, SQL Server, and more to create the program and give it the functionality
+                        the client wanted for his business.
                     </p>
                     <a href="#" class="btn btn-outline-primary disabled">View GitHub Repo</a>
                 </div>
