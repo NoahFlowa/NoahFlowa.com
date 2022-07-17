@@ -39,7 +39,11 @@
             <!-- Jumbotron Import -->
             <?php require("jumbotron.php"); ?>
             <!-- Experience -->
-            <?php require("experience.php");?>
+            <?php require("experience.php"); ?>
+            <!-- Skills -->
+            <?php require("skills.php"); ?>
+            <!-- Footer -->
+            <?php require("footer.php"); ?>
         </div>
         <div class="col-md-1"></div>
     </div>
