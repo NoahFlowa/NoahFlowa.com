@@ -88,3 +88,7 @@ a:active {
   font-weight: normal;
   font-style: normal;
 }
+
+.noSVG {
+  font-family: "abberancy";
+}
