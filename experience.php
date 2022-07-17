@@ -1,57 +1,67 @@
-<div class="container-fluid mt-5">
-    <ul class="timeline-with-icons">
+<div class="container-fluid">
+    <h1 class="display-5 py-5 text-center fw-bold">A Brief Timeline of My Life From 2017 To Present</h1>
+    <ul class="timeline">
         <li class="timeline-item mb-5">
-            <span class="timeline-icon">
-                <i class="fas fa-rocket text-primary fa-sm fa-fw"></i>
-            </span>
-
-            <h5 class="fw-bold">What I am currently up to...</h5>
-            <p class=" mb-2 fw-bold">Present Day</p>
-            <p class="">
-                Full-Time Student at Ferris State University for a Bachelors of Science in Computer Information Systems and enjoying my last summer break of no work :D
+            <h1 class="fw-bold fs-2">What I am currently up to...</h1>
+            <p class="mainColor mb-2 fw-bold">Present Day</p>
+            <p class="fs-5">
+                I am currently pursuing my last semester at Ferris State University for my Bachelors of Science in Computer Information Systems.
+                I also love to hang out with my friends in beautiful Traverse City, Michigan and play on my custom built gaming PC.
+                I also love to dabble in Game Creation with Unreal Engine 5 and even Virtual and Augmented Reality with my Meta Quest 2 and the HTC Vive.
             </p>
         </li>
 
         <li class="timeline-item mb-5">
-
-            <span class="timeline-icon">
-                <i class="fas fa-hand-holding-usd text-primary fa-sm fa-fw"></i>
-            </span>
-            <h5 class="fw-bold">What did I do during the second year of the pandemic?</h5>
-            <p class=" mb-2 fw-bold">2021</p>
-            <p class="">
-                OK Enterprises changes to Osterhout & Klein Enterprises LLC. however the partners decide to close it as we all pursue other ventures and fields than what the company was made for. I personally learned a lot about owning and operating a business as well as how to set your own goals and see them finalized.
+            <h1 class="fw-bold fs-2">The Year Internet Explorer Died</h1>
+            <p class="mainColor mb-2 fw-bold">2021 | MMXXI</p>
+            <p class="fs-5">
+                My company, OK Enterprises changes names to Osterhout & Klein Enterprises LLC. and operates till August when we sell of clients and
+                the partners decide to do other things as lifestyle changes happen after COVID.  Personally, I learned a lot about running a company,
+                finding and retaining clients, setting reasonable goals and reaching them as well as the government bureaucracy in opening and closing
+                a company.
             </p>
         </li>
 
         <li class="timeline-item mb-5">
-
-            <span class="timeline-icon">
-                <i class="fas fa-users text-primary fa-sm fa-fw"></i>
-            </span>
-            <h5 class="fw-bold">Our team exceeds 10 people</h5>
-            <p class=" mb-2 fw-bold">24 June 2020</p>
-            <p class="">
-                Orci varius natoque penatibus et magnis dis parturient montes,
-                nascetur ridiculus mus. Nulla ullamcorper arcu lacus, maximus
-                facilisis erat pellentesque nec. Duis et dui maximus dui aliquam
-                convallis. Quisque consectetur purus erat, et ullamcorper sapien
-                tincidunt vitae.
+            <h1 class="fw-bold fs-2">The Year of COVID-19</h1>
+            <p class="mainColor mb-2 fw-bold">2020 | MMXX</p>
+            <p class="fs-5">
+                Along with starting studies at Ferris State University, OK Enterprises enters business officially in the official worst year to make 
+                a business.  We still power through to offer services for small and medium businesses which include Application Development such as 
+                Web, Mobile and Desktop, as well as other digital creative agency services like Website Design and Development as well as SEO and 
+                email marketing.  Also found OK Foundations, an 502 Non Profit, as a way to offer OK Enterprise services for free to struggling 
+                businesses due to COVID-19.  
             </p>
         </li>
 
         <li class="timeline-item mb-5">
+            <h1 class="fw-bold fs-2">The Year of The Mandalorian</h1>
+            <p class="mainColor mb-2 fw-bold">2019 | MMXIX</p>
+            <p class="fs-5">
+                Last year of studies at Northwestern Michigan College (NMC) and founded Chatversity as well as OK Enterprises which was designed as a
+                parent company for various ventures for the partners of OK Enterpises.  Chatversity was made as a way to market an application my classmates
+                and I made earlier that spring for a capstone project.  Also started work on a semi complete Golfing robot...
+            </p>
+        </li>
 
-            <span class="timeline-icon">
-                <i class="fas fa-money-bill-wave text-primary fa-sm fa-fw"></i>
-            </span>
-            <h5 class="fw-bold">Earned the first million $!</h5>
-            <p class=" mb-2 fw-bold">15 October 2020</p>
-            <p class="">
-                Nulla ac tellus convallis, pulvinar nulla ac, fermentum diam. Sed
-                et urna sit amet massa dapibus tristique non finibus ligula. Nam
-                pharetra libero nibh, id feugiat tortor rhoncus vitae. Ut suscipit
-                vulputate mattis.
+        <li class="timeline-item mb-5">
+            <h1 class="fw-bold fs-2">The Year That Microsoft Bought GitHub</h1>
+            <p class="mainColor mb-2 fw-bold">2018 | MMXVIII</p>
+            <p class="fs-5">
+                First full year of college after High School graduation in 2017 and the most notable things I did this year was get my MTA Certifications from
+                Microsoft for Software and Database Fundamentals.  I also planned out my Bachelors for Ferris State University and decided to go for the 
+                Computer Information Systems degree.
+            </p>
+        </li>
+
+        <li class="timeline-item mb-5">
+            <h1 class="fw-bold fs-2">The Year I Graduated From HighSchool</h1>
+            <p class="mainColor mb-2 fw-bold">2017 | MMXVII</p>
+            <p class="fs-5">
+                Graduate from Traverse City West Senior Highschool as well as entered the Northwestern Michigan College Computer Information Systems 
+                program.  My semester project for my first programming class in C# was a simple Virtual Reality game that works with the HTC Vive headset.
+                That summer I also bought said HTC Vive and got super into Virtual Reality and VR game development with Unity and then switched to
+                Unreal Engine.
             </p>
         </li>
     </ul>
