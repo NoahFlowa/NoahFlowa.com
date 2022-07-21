@@ -6,11 +6,21 @@
             <p class="mainColor mb-2 fw-bold">Present Day</p>
             <p class="fs-5">
                 I am currently pursuing my last semester at Ferris State University for my Bachelors of Science in Computer Information Systems.
+                I am employed as a Software Developer at SunFrog shirts making some awesome applications.
                 I also love to hang out with my friends in beautiful Traverse City, Michigan and play on my custom built gaming PC.
-                I also love to dabble in Game Creation with Unreal Engine 5 and even Virtual and Augmented Reality with my Meta Quest 2 and the HTC Vive.
+                Sometimes I dabble in Game Creation with Unreal Engine 5 and even Virtual and Augmented Reality with my Meta Quest 2 and the HTC Vive.
             </p>
         </li>
-
+        
+        <li class="timeline-item mb-5">
+            <h1 class="fw-bold fs-2">The Year of The James Webb Telescope</h1>
+            <p class="mainColor mb-2 fw-bold">2022 | MMXXII</p>
+            <p class="fs-5">
+                I started as a Software Developer at SunFrog Shirts in late July and in December I graduate with a Bachelors of Science
+                in Computer Information Systems from the College of Business at Ferris State University.
+            </p>
+        </li>
+        
         <li class="timeline-item mb-5">
             <h1 class="fw-bold fs-2">The Year Internet Explorer Died</h1>
             <p class="mainColor mb-2 fw-bold">2021 | MMXXI</p>
