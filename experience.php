@@ -6,7 +6,7 @@
             <p class="mainColor mb-2 fw-bold">Present Day</p>
             <p class="fs-5">
                 I am currently pursuing my last semester at Ferris State University for my Bachelors of Science in Computer Information Systems.
-                I am employed as a Software Developer at SunFrog shirts making some awesome applications.
+                I am employed as a Software Developer at SunFrog Solutions making some awesome applications.
                 I also love to hang out with my friends in beautiful Traverse City, Michigan and play on my custom built gaming PC.
                 Sometimes I dabble in Game Creation with Unreal Engine 5 and even Virtual and Augmented Reality with my Meta Quest 2 and the HTC Vive.
             </p>
