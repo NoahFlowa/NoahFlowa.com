@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark sticky-top fs-4 pt-3" style="background-color: #101317;">
+<nav class="navbar navbar-expand-lg navbar-dark sticky-top fs-5 pt-3" style="background-color: #101317;">
     <div class="container-fluid">
         <a class="navbar-brand" href="https://noahosterhout.com"><span style="font-family: abberancy, 'Open Sans';">Noah <span style="color: #22c2fc; font-family: abberancy;">O</span>sterhout </span></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">

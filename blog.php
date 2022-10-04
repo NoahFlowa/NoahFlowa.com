@@ -39,10 +39,8 @@
             <!-- Jumbotron Import -->
             <?php require("jumbotron.php"); displayJumbotron("Hi, welcome to my Blog!", "I hope you find something interesting!", "This is where I post content I write that I find interesting and want to share or information I just want to archive and have a place to store it!") ?>
             
-            <!-- Coming Soon -->
-            <div class="container-fluid">
-                <h1 class="display-5 py-5 text-center fw-bold">Blog coming soon!</h1>
-            </div>
+            <!-- Blog Section Import -->
+            <?php require("blog-section.php"); ?>
 
             <!-- Footer -->
             <?php require("footer.php"); ?>
