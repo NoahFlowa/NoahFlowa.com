@@ -25,7 +25,7 @@
         <div class="col-sm-4">
             <div class="card">
                 <div class="card-body">
-                    <p class="text-center pb-4"><img src="https://fakerphp.github.io/images/logo.svg" width="150" height="150"></p>
+                    <p class="text-center pb-4"><img src="" width="150" height="150"></p>
                     <h5 class="card-title fw-bold">MySQL vs MSSQL: Which Is Best For Web Apps?</h5>
                     <p class="card-text fs-5">
                         An in depth analysis of two of the most popular database engines and what one you should use for Web Apps.
