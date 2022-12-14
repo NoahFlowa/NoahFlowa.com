@@ -16,8 +16,8 @@
             <h1 class="fw-bold fs-2">The Year of The James Webb Telescope</h1>
             <p class="mainColor mb-2 fw-bold">2022 | MMXXII</p>
             <p class="fs-5">
-                I started as a Software Developer at SunFrog Shirts in late July and in December I graduate with a Bachelors of Science
-                in Computer Information Systems from the College of Business at Ferris State University.
+                In July I interned at SunFrog Solutions as a part time developer and in October I accepted a full time position as a Systems Developer.  I
+                also finished my B.S. in Computer Information Systems at Ferris State University in December.
             </p>
         </li>
         
