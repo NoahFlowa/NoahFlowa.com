@@ -15,9 +15,8 @@
             <h1 class="fw-bold fs-2">Bachelor of Science: Business - Computer Information Systems</h1>
             <p class="mainColor mb-2 fw-bold">December 16th, 2022 | MMXXII</p>
             <p class="fs-5">
-                December 16th, 2022 I graduated from Ferris State University with my diploma in Bachelors of Science: Business - Computer Information Systems.
+                December 16th, 2022 I graduated from Ferris State University with my diploma in <a id="diploma" style="color:#22c2fc;" href="/docs/Noah_Osterhout_CIS_eDiploma.pdf" download>Bachelors of Science: Business - Computer Information Systems</a>.
             </p>
-            <button id="diploma" type="button" class="btn btn-link" href="./docs/Noah_Osterhout_CIS_eDiploma.pdf">Download my eDiploma</button>
         </li>
         
         <li class="timeline-item mb-5">
