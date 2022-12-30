@@ -5,11 +5,19 @@
             <h1 class="fw-bold fs-2">What I am currently up to...</h1>
             <p class="mainColor mb-2 fw-bold">Present Day</p>
             <p class="fs-5">
-                I am currently pursuing my last semester at Ferris State University for my Bachelors of Science in Computer Information Systems.
                 I am employed as a Software Developer at SunFrog Solutions making some awesome applications.
                 I also love to hang out with my friends in beautiful Traverse City, Michigan and play on my custom built gaming PC.
                 Sometimes I dabble in Game Creation with Unreal Engine 5 and even Virtual and Augmented Reality with my Meta Quest 2 and the HTC Vive.
             </p>
+        </li>
+
+        <li class="timeline-item mb-5">
+            <h1 class="fw-bold fs-2">Bachelor of Science: Business - Computer Information Systems</h1>
+            <p class="mainColor mb-2 fw-bold">December 16th, 2022 | MMXXII</p>
+            <p class="fs-5">
+                December 16th, 2022 I graduated from Ferris State University with my diploma in Bachelors of Science: Business - Computer Information Systems.
+            </p>
+            <button id="diploma" type="button" class="btn btn-link" href="./docs/Noah_Osterhout_CIS_eDiploma.pdf">Download my eDiploma</button>
         </li>
         
         <li class="timeline-item mb-5">
