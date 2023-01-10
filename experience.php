@@ -16,6 +16,7 @@
             <p class="mainColor mb-2 fw-bold">December 16th, 2022 | MMXXII</p>
             <p class="fs-5">
                 December 16th, 2022 I graduated from Ferris State University with my diploma in <a id="diploma" style="color:#22c2fc;" href="/docs/Noah_Osterhout_CIS_eDiploma.pdf" download>Bachelors of Science: Business - Computer Information Systems</a>.
+                I also acquired the <a id="cert" style="color#22cfc;" href="/docs/Osterhout_Noah__PGS_Completion_Certificate_202212092212.pdf" download>Peregrine Certificate for Business Information Systems 499 Integrated Experience</a> for my Capstone class.
             </p>
         </li>
         
