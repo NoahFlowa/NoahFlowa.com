@@ -10,7 +10,7 @@
     -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Blog - Noah Osterhout</title>
+    <title>PC Specs - Noah Osterhout</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
     <!-- Font Awesome 6 -->
@@ -37,7 +37,72 @@
             <!-- Navbar Import -->
             <?php require("navbar.php"); ?>
             <!-- Main Content -->
-            <?php require("jumbotron.php"); displayJumbotron("Uh oh!", "404 Not Found!", "Looks like the server gave ya a 404!  If you believe this to be an error, try again!  If not, let me know!  <br><br>Your requested link: <a href=\"$actual_link\" target=\"_blank\">$actual_link</a>") ?>
+            <?php require("jumbotron.php"); displayJumbotron("PC Gaming Rig", "Custom Built 2023", "In the table below you can find all of the components for my custom gaming pc rig that I built.  Updated as of February 2023!") ?>
+            <table class="table table-bordered fs-3 lh-lg">
+                <thead class="text-center">
+                    <tr>
+                        <th colspan="6"><h2><strong>Noah's Custom Built PC 2023</strong></h2></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>CPU</strong></td>
+                        <td colspan="5">i7 10700K</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Motherboard</strong></td>
+                        <td colspan="5">ASUS ROG Strix Z490-E</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Memory (RAM)</strong></td>
+                        <td colspan="5">(2) Corsair Vengeance RGB Pro DDR4 64 GB (2x16GB) @ 3600</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Storage</strong></td>
+                        <td>(3) Western Digital 1TB Hard Drive</td>
+                        <td>(1) Western Digital 500GB SSD Drive</td>
+                        <td>(1) Sabrent Rocket Q 500GB M.2 NVME</td>
+                        <td>(1) Sabrent Rocket Q 1TB M.2 NVME</td>
+                        <td>Microsoft OneDrive (1TB) and Apple iCloud (200GB)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Graphics Card</strong></td>
+                        <td colspan="5">ASUS TUF Gaming GeForce RTX 3090Ti 24GB</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Power Supply Unit (PSU)</strong></td>
+                        <td colspan="5">Corsair RM1000e 1000W ATX12V</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Case</strong></td>
+                        <td colspan="5">Corsair Carbide 740 Cube</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Monitors</strong></td>
+                        <td colspan="5">(2) Gigabyte M32QC 32" QHD Curved Monitor</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Keyboard</strong></td>
+                        <td colspan="5">Corsair K95 Platinum</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Mouse</strong></td>
+                        <td colspan="5">Corsair Schmitar MMO Gaming Mouse</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Microphone</strong></td>
+                        <td colspan="5">Blue Yeti</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Other Peripherals</strong></td>
+                        <td>ASUS 4x4 802.11AC Wireless AC3100 WiFi Adapter (PCIe)</td>
+                        <td>Corsair Hydro Series H100i PRO RGB CPU AIO Pump</td>
+                        <td>Corsair iCUE Commander Core XT</td>
+                        <td>(2) Corsair ML RGB ELITE 140MM Mag Lev Fans</td>
+                        <td>(3) Corsair ML RGB ELITE 120MM Mag Lev Fans</td>
+                    </tr>
+                </tbody>
+            </table>
             <!-- Footer -->
             <?php require("footer.php"); ?>
         </div>
