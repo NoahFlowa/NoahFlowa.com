@@ -5,9 +5,9 @@
             <h1 class="fw-bold fs-2">What I am currently up to...</h1>
             <p class="mainColor mb-2 fw-bold">Present Day</p>
             <p class="fs-5">
-                I am employed as a Software Developer at SunFrog Solutions making some awesome applications.
-                I also love to hang out with my friends in beautiful Traverse City, Michigan and play on my custom built gaming PC.
-                Sometimes I dabble in Game Creation with Unreal Engine 5 and even Virtual and Augmented Reality with my Meta Quest 2 and the HTC Vive.
+                I am employed as a Systems Engineer at SunFrog Solutions creating in house tools, report pages and projects.
+                I also love to hang out with my friends in Traverse City, Michigan and play on my <a href="/pcSpecs.php">custom built gaming PC</a>.
+                Sometimes I dabble in game creation with Unreal Engine 5 and even Virtual and Augmented Reality with my Meta Quest 2 and the HTC Vive.
             </p>
         </li>
 
