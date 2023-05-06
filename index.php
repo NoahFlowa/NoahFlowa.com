@@ -37,7 +37,7 @@
             <!-- Navbar Import -->
             <?php require("navbar.php"); ?>
             <!-- Jumbotron Import -->
-            <?php require("jumbotron.php"); displayJumbotron("Hi, my name is Noah!", "Welcome to my Website", "I am an Applications Developer for Web, Mobile and Desktop focused on creating great codebases and even better user interfaces.") ?>
+            <?php require("jumbotron.php"); displayJumbotron("Hi, my name is Noah!", "Welcome to my Website", "Primarily, I develop web-based applications, but I also take pleasure in crafting mobile and desktop applications. My focus is on constructing well-structured, maintainable codebases while ensuring the user interfaces are visually appealing, intuitive, and provide a seamless user experience.") ?>
             <!-- Experience -->
             <?php require("experience.php"); ?>
             <!-- Skills -->
