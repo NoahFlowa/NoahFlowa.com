@@ -84,7 +84,7 @@ a:active {
 
 @font-face {
   font-family: "abberancy";
-  src: url(/css/abberancy.otf);
+  src: url(/css/fonts/abberancy/Abberancy.otf);
   font-weight: normal;
   font-style: normal;
 }
