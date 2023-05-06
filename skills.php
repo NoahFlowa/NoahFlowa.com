@@ -17,7 +17,7 @@
                     <p class="text-center pb-4"><img src="/img/BoyosDiscordLogo.png" width="200" height="200"></p>
                     <h5 class="card-title fw-bold">The Boyos Discord Bot</h5>
                     <p class="card-text fs-5">The Boyos Discord Bot is a custom NodeJS and JavaScript Discord moderation, music playing and misc bot created by me and one of my close friend <a href="https://github.com/wymillerlinux" target="_blank">Wyatt J. Miller</a>!</p>
-                    <a href="https://github.com/NoahFlowa/NoahOsterhout.com" class="btn btn-outline-primary">View GitHub Repo</a>
+                    <a href="https://github.com/NoahFlowa/BoyosBot" class="btn btn-outline-primary">View GitHub Repo</a>
                 </div>
             </div>
         </div>
