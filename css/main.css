@@ -88,3 +88,74 @@ a:active {
   font-weight: normal;
   font-style: normal;
 }
+
+/*!Below is for activeGames.php*/
+.custom-card {
+  position: relative;
+  border: 4px solid #ffffff33;
+  box-shadow: 0 10px 20px rgba(255, 255, 255, 0.1), 0 6px 6px rgba(255, 255, 255, 0.1);
+  background-color: #101317;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+  overflow: hidden;
+  height: 100%;
+}
+
+.custom-card:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(45deg, #22c2fc 0%, #22c2fc80 100%);
+  z-index: -1;
+  opacity: 0;
+  transition: all 0.3s ease;
+}
+
+.custom-card:hover {
+  box-shadow: 0 15px 30px rgba(255, 255, 255, 0.15), 0 10px 10px rgba(255, 255, 255, 0.1);
+  transform: translateY(-5px);
+}
+
+.custom-card:hover:before {
+  transform: scale(1.05);
+  opacity: 1;
+}
+
+.custom-card-img {
+  object-fit: cover;
+  height: 60%;
+  width: 100%;
+  border-bottom: 1px solid #ffffff33;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  position: relative; /* Add this line */
+  overflow: hidden; /* Add this line */
+}
+
+.custom-card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s;
+}
+
+.card-title {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.referral {
+  color: #22c2fc;
+}
+
+.card-body {
+  height: 40%;
+  line-height: 1.9;
+}
+
+.game-grid-row {
+  margin-bottom: 30px;
+}

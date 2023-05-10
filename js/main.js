@@ -1,7 +1,7 @@
 /* 
 Author: Noah Osterhout
-Project: NoahOsterhout.com V2
-Created On: July 9th 2022
-Last Edited On: July 9th 2022
+Project: NoahFlowa.com V2
+Created On: May 10th 2023
+Last Edited On: May 10th 2023
 File: Main.JS
 */

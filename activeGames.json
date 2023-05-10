@@ -1,0 +1,49 @@
+{
+    "FileName": "activeGames.json",
+    "Version": "1.0.0",
+    "activeGamesList" : [
+        {
+            "GameName": "Star Citizen",
+            "ImageLink": "./img/gameLogos/STARCITIZEN.png",
+            "IGN": "@NoahFlowa",
+            "Summary": "Use my referral code below to get 5,000 UEC when you sign up for Star Citizen!",
+            "Referral": "STAR-SLWV-35K4"
+        },
+        {
+            "GameName": "Destiny 2",
+            "ImageLink": "./img/gameLogos/DESTINY2.jpg",
+            "IGN": "NoahFlowa",
+            "Summary": ""
+        },
+        {
+            "GameName": "World of Warcraft",
+            "ImageLink": "./img/gameLogos/WOW.jpg",
+            "IGN": "NoahFlowa#1304",
+            "Summary": ""
+        },
+        {
+            "GameName": "Minecraft",
+            "ImageLink": "./img/gameLogos/MC.jpg",
+            "IGN": "",
+            "Summary": ""
+        },
+        {
+            "GameName": "New World",
+            "ImageLink": "./img/gameLogos/NW.jpg",
+            "IGN": "",
+            "Summary": ""
+        },
+        {
+            "GameName": "The Division 2",
+            "ImageLink": "./img/gameLogos/TD2.png",
+            "IGN": "",
+            "Summary": ""
+        },
+        {
+            "GameName": "ARK: Survival Evolved",
+            "ImageLink": "./img/gameLogos/ARK.jpg",
+            "IGN": "",
+            "Summary": ""
+        }
+    ]
+}
